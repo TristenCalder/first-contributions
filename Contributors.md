@@ -1,5 +1,6 @@
 +
 # Contributors
+- [Tristen Calder] (https://github.com/TristenCalder/) **Hello**
 - [James Harris](https://github.com/James-d-Harris/) **I'm doing my part**
 - [Kanatov Vladislav](https://github.com/lon8/) **Good day, bro!**
 - [Levi Ly](https://github.com/levihly) **bepbepbep**
